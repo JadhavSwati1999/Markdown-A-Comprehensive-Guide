@@ -60,7 +60,7 @@ or
 
 which will give the following result :
 
-![Myimage](https://stock.adobe.com/in/images/github-logo-vector-icon/250305943)
+![Myimage](https://www.neuralnine.com/wp-content/uploads/2020/07/Design-ohne-Titel-3-1024x1024.png)
 
 
 **To add any quote to the file :**
