@@ -56,11 +56,12 @@ or
 
 **To display the image :**
 
-`![Myimage](https://logos-world.net/amazon-web-services-logo/)`
+`![Myimage](https://www.neuralnine.com/wp-content/uploads/2020/07/Design-ohne-Titel-3-1024x1024.png)`
 
 which will give the following result :
 
 ![Myimage](https://www.neuralnine.com/wp-content/uploads/2020/07/Design-ohne-Titel-3-1024x1024.png)
+![Myimage](https://www.vecteezy.com/free-png/book)
 
 
 **To add any quote to the file :**
