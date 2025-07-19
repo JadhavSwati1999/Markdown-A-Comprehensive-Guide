@@ -22,7 +22,7 @@ You can also use two underscores before and after the word.
 
 eg: `__this__` which will give the result: **this**
 
-**To make the word italic :**
+**To make the word italic. :**
 
 use one star before and after a word.
 
